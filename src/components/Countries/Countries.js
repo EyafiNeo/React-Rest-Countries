@@ -13,7 +13,7 @@ const Countries = () => {
     countries = countries.slice(0,20);
     return (
         <div>
-            <h2>Countries: {countries.length} </h2>
+            <h2>Total Countries: {countries.length} </h2>
             <div className='countries-container'>
             {
                 // should give a key which has the unique value example is id
