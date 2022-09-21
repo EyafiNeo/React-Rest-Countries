@@ -1,0 +1,9 @@
+.country-div{
+    background-color: bisque;
+    padding: 10px 10px;
+}
+
+.country-div img{
+    width: 100%;
+    height: auto;
+}
